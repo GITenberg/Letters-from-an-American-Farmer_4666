@@ -1,0 +1,39 @@
+_repo: Letters-from-an-American-Farmer_4666
+contributor:
+  commentator:
+    agent_name: Blake, Warren Barton
+    birthdate: 1883
+    deathdate: 1918
+    gutenberg_agent_id: '34446'
+    url: http://www.gutenberg.org/2009/agents/34446
+creator:
+  author:
+    agent_name: St. John de Crèvecoeur, J. Hector
+    aliases:
+    - De Crèvecoeur, J. Hector St. John
+    - St. John de Crevecoeur, J. Hector
+    - Crèvecoeur, J. Hector St. John de
+    - Crèvecoeur, J. Hector Saint John de
+    - Crèvecoeur, Michel Guillaume St. Jean de
+    birthdate: 1735
+    deathdate: 1813
+    gutenberg_agent_id: '1536'
+    url: http://www.gutenberg.org/2009/agents/1536
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_Cr%C3%A8vecoeur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'St. John de Crèvecoeur, J. Hector, 1735-1813'
+- !lcsh 'Nantucket (Mass.)'
+- !lcsh 'United States -- Description and travel -- Early works to 1800'
+- !lcc 'E151'
+- !lcsh 'United States -- Social life and customs -- 1775-1783'
+title: Letters from an American Farmer
+url: http://www.gutenberg.org/ebooks/4666
