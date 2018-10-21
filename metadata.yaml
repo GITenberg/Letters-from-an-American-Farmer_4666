@@ -1,5 +1,5 @@
 _repo: Letters-from-an-American-Farmer_4666
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   commentator:
     agent_name: Blake, Warren Barton
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'United States -- Description and travel -- Early works to 1800'
 - !lcc 'E151'
 - !lcsh 'United States -- Social life and customs -- 1775-1783'
+- GITenberg
 title: Letters from an American Farmer
 url: http://www.gutenberg.org/ebooks/4666
